@@ -1,0 +1,45 @@
+* Wald 137 Basket Bag
+[[./img/bike.jpg/]]
+Wald baskets come in a few sizes, the most popular for basketpacking being 137 and 139. The 137 is smaller and fits better between drop bars.
+
+** Pattern
+A not-to-scale pattern is exported to [[./wald137bag.pdf]]. The panels are simple enough to measure out, rather than printing and tracing.
+
+The pattern ([[./wald137bag.dxf]]) was created using [[QCAD[https://www.qcad.org/]]].
+
+** Materials
+- 1 yard rollable material for collar (I used VX21 X-Pac)
+- 1 yard abrasion-resistant fabric for area touching basket (I used 1000D Cordura)
+- 10' 1" webbing
+- 2 Double Adjust Side Release Buckles (if you don't mind not being able to buckle the top together to form a handle, you can use single-adjust)
+- (Optional) 1 yard lining material (I used 1.9 oz PU coated Ripstop Nylon)
+- (Optional) 1/8" closed-cell foam for padding
+- (Optional) 1" grosgrain ribbon for edge binding
+- (Optional) 2 plastic swivel snap hooks
+
+** Notes
+- Seam allowances are 3/8"
+
+** Instructions
+*** Make the basket portion
+[[./img/side.jpg]]
+1. Cut out the fabric pieces. You should have 2 side pieces and 1 bottom piece in both the outer and lining fabrics
+2. If you are using padding, cut out side and bottom pieces shrunk 1" smaller than the fabric pieces. This will prevent the foam from being sewn into the seam allowance.
+3. Sew the lining to outer pieces, wrong-side to wrong-side, less than 3/8" from the edge, leaving one side open to insert the foam, then sewing closed
+4. Pin a 2' piece of webbing at the midpoint of the bottom seam on the right-side. This webbing will feed out and around the basket to hold the bag in place. Then sew the side piece to the bottom piece. Repeat on the other side.
+5. Bind the seams with grosgrain ribbon
+*** Make the collar
+[[./img/open.jpg]]
+1. Wrong-side to wrong-side, sew the collar fabric together on the shorter edges to form a tube
+2. Bind the seams with grosgrain ribbon
+*** Attach the collar to the basket portion
+[[./img/inner.jpg]]
+1. With the collar inside-out, place the basket portion inside the collar, so that the top of the basket portion is flush with one edge of the collar,  aligning the seams of the collar with the midpoints of the side panels
+2. Sew around the top of the basket portion to attach the collar
+3. Bind the seam with grosgrain ribbon
+*** Finishing touches
+[[./img/buckle.jpg]]
+1. Bind the top of the collar with ribbon
+2. Starting mid-way between the collar seams, start sewing webbing around the perimeter of the collar, stopping 1" before the first seam. Thread on a female buckle, and resume sewing 1" after the seam. Repeat when you reach the second seam, but with the male buckle.
+3. Bar-tack on both sides of each buckle and where the two ends of the webbing meet
+4. Attach the remaining buckles to the loose straps and sew the ends (I sewed on swivel hooks to attach to the basket).
