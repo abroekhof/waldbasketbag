@@ -6,7 +6,7 @@ Wald baskets come in a few sizes, the most popular for basketpacking being 137 a
 ** Pattern
 A not-to-scale pattern is exported to [[./wald137bag.pdf]]. The panels are simple enough to measure out, rather than printing and tracing.
 
-The pattern ([[./wald137bag.dxf]]) was created using [[QCAD[https://www.qcad.org/]]].
+The pattern ([[./wald137bag.dxf]]) was created using [[https://www.qcad.org/][QCAD]].
 
 ** Materials
 - 1 yard rollable material for collar (I used VX21 X-Pac)
